@@ -168,7 +168,7 @@ sudo rm -rf /var/www/html/osticket/upload/setup
 ## *Final Notes:*
 ### I hope this tutorial on installing OSticket on VM helped you in your tech journey! 
 
-If you experience error message 500 try these steps below to help solve.
+## If you experience error message 500 try these steps below to help solve.
 
 ### *Run the following Apache2 access*
 
